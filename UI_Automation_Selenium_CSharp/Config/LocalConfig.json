@@ -1,0 +1,17 @@
+{
+  "Selenium_ApplicationName": "Trello",
+  "Selenium_Environment": "Production",
+  "Selenium_Browser": "chrome",
+  "Selenium_URL": "https://trello.com/login",
+  "Selenium_EmailReport": "Yes",
+  "Selenium_ReportWriting": "Yes",
+  "Selenium_ReportLocation": "TestReport",
+  "Selenium_ReportName": "Trello_UI_Automation Report",
+  "Selenium_Recipient1": "r.banore@iaea.org",
+  "Selenium_Recipient2": "r.banore@iaea.org",
+  "Selenium_Recipient3": "r.banore@iaea.org",
+  "Selenium_Recipient4": "r.banore@iaea.org",
+  "Selenium_ScreenShotLocation": "Screenshots",
+  "Selenium_UserName": "testautomationuservienna@gmail.com",
+  "Selenium_Password": ""
+}
